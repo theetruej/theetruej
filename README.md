@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highschool Student | Game developer | FTC robotics programmer | Student-athlete
+Highschool Student | FTC/FRC Programmer | Cybersecurity Enthusiast
 
 
 # 💻 Tech Stack:
